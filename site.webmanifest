@@ -1,14 +1,14 @@
 {
     "name": "Saaslix",
-    "short_name": "saaslix",
+    "short_name": "Saaslix",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-nc8bd4qjhwU/YSmY4Vh1vhI/AAAAAAAAASk/9-ut-npNjW8owajVI1OR2opU3i1likMhwCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "src":"https://1.bp.blogspot.com/-Zqvp22Vj4sQ/YSod_6rUSxI/AAAAAAAAAUw/arCRrtVKD5Eh04BVsGk5KCDwoBPaMDsygCPcBGAYYCw/s0/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src":"https://1.bp.blogspot.com/-th8uurhbjaE/YSmY4iG5R6I/AAAAAAAAASs/HnbY_DfogoUbBVrUDUxJtGxUSkg_atokQCLcBGAsYHQ/s0/android-chrome-512x512.png",
+            "src": "https://1.bp.blogspot.com/-lbZtgLa3-m0/YSoeBVruQlI/AAAAAAAAAUo/M9pmJjwoFCwmsRANtgt9dhsnPfa7EU4bgCPcBGAYYCw/s0/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
