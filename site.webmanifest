@@ -1,0 +1,19 @@
+{
+    "name": "Saaslix",
+    "short_name": "saaslix",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-nc8bd4qjhwU/YSmY4Vh1vhI/AAAAAAAAASk/9-ut-npNjW8owajVI1OR2opU3i1likMhwCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src":"https://1.bp.blogspot.com/-th8uurhbjaE/YSmY4iG5R6I/AAAAAAAAASs/HnbY_DfogoUbBVrUDUxJtGxUSkg_atokQCLcBGAsYHQ/s0/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
